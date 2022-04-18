@@ -47,6 +47,9 @@ androidExtensions {
 }
 
 android {
+    dataBinding {
+        enabled = true
+    }
     compileSdkVersion Versions.COMPILE_SDK
     buildToolsVersion Versions.BUILD_TOOLS
 
@@ -361,7 +364,7 @@ if (coverageEnabled) {
                            '**/model*/**',
                            '**/di/**',
                            '**/service*/**'],
-                //includes: ['**/com/instructure/*']
+                //includes: ['**/com/instructue/*']
         )
 
         // project.buildDir is /canvas-android/apps/teacher/build

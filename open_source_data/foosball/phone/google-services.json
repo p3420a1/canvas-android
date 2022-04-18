@@ -1,35 +1,26 @@
 {
   "project_info": {
-    "project_number": "2",
-    "firebase_url": "2",
-    "project_id": "2",
-    "storage_bucket": "2"
+    "project_number": "586698244239",
+    "project_id": "fitchlearning-63177",
+    "storage_bucket": "fitchlearning-63177.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "2",
+        "mobilesdk_app_id": "1:586698244239:android:86ee7d22ef0c393388f0fa",
         "android_client_info": {
-          "package_name": "com.instructure.androidfoosball"
+          "package_name": "com.instructure.candroid"
         }
       },
       "oauth_client": [
         {
-          "client_id": "2",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.instructure.androidfoosball",
-            "certificate_hash": "2"
-          }
-        },
-        {
-          "client_id": "2",
+          "client_id": "586698244239-evpeqrff3iqmpqomr43v388git8v1idh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "2"
+          "current_key": "AIzaSyDErz6ULJxx-Gp8ELJzUDqwELeqZMk_Qns"
         }
       ],
       "services": {
@@ -37,16 +28,16 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
+          "status": 1,
           "other_platform_oauth_client": [
             {
-              "client_id": "2",
+              "client_id": "586698244239-evpeqrff3iqmpqomr43v388git8v1idh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         },
         "ads_service": {
-          "status": 2
+          "status": 1
         }
       }
     }

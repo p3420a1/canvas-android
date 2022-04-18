@@ -1,38 +1,40 @@
 {
   "project_info": {
-    "project_id": "2",
-    "project_number": "2",
-    "name": "SpeedGrader"
+    "project_number": "586698244239",
+    "project_id": "fitchlearning-63177",
+    "storage_bucket": "fitchlearning-63177.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "2",
-        "client_id": "android:com.instructure.speedgrader",
-        "client_type": 1,
+        "mobilesdk_app_id": "1:586698244239:android:86ee7d22ef0c393388f0fa",
         "android_client_info": {
-          "package_name": "com.instructure.speedgrader"
+          "package_name": "com.instructure.candroid"
         }
       },
-      "oauth_client": [],
-      "api_key": [],
+      "oauth_client": [
+        {
+          "client_id": "586698244239-evpeqrff3iqmpqomr43v388git8v1idh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErz6ULJxx-Gp8ELJzUDqwELeqZMk_Qns"
+        }
+      ],
       "services": {
         "analytics_service": {
-          "status": 2,
-          "analytics_property": {
-            "tracking_id": "2"
-          }
-        },
-        "cloud_messaging_service": {
-          "status": 1,
-          "apns_config": []
+          "status": 1
         },
         "appinvite_service": {
           "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "google_signin_service": {
-          "status": 1
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586698244239-evpeqrff3iqmpqomr43v388git8v1idh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 1
@@ -40,6 +42,5 @@
       }
     }
   ],
-  "client_info": [],
-  "ARTIFACT_VERSION": "1"
+  "configuration_version": "1"
 }
